@@ -63,3 +63,8 @@ for (let x of language) {
 }
 
 document.getElementById("forOfString").innerHTML = text4;
+
+// Have to do some changes now getting up to date with Javascript also with
+// Codeacademy Full Stack Engineer
+
+// Testing the changes here for commit git!
